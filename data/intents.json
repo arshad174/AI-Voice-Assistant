@@ -1,0 +1,38 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hello", "hi", "hey", "good morning", "good evening",
+        "hello assistant", "hi there"
+      ]
+    },
+    {
+      "tag": "name",
+      "patterns": [
+        "what is your name", "who are you", "tell me your name",
+        "your name please"
+      ]
+    },
+    {
+      "tag": "time",
+      "patterns": [
+        "what time is it", "tell me time", "current time",
+        "can you tell me the time", "time now",
+        "please tell time"
+      ]
+    },
+    {
+      "tag": "capital",
+      "patterns": [
+        "what is capital of india",
+        "capital of india",
+        "capital of bihar",
+        "capital of delhi",
+        "what is the capital of france",
+        "tell me capital of germany",
+        "capital of usa"
+      ]
+    }
+  ]
+}
